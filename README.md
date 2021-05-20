@@ -20,8 +20,7 @@ A online shopping website where people can find anything which they needs.
 - Fakedata
 - Private Route
 - node.js
-- express
--
+- express.js
 
 ### [LIVE SITE](https://sree-ema-john.web.app)
-### [server site](https://github.com/sonjoybarmon/ema-john-server)
+### [server site](https://github.com/MH-PAVEL/ema-john-server)
